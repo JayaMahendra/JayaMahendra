@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+---
 
 <p align="center">
   <a href="https://www.instagram.com/rjaia/" target="_blank">
@@ -24,7 +24,6 @@
   </a>&nbsp;
 </p>
 
----
 
 
 ---
